@@ -1,0 +1,18 @@
+# Streamlit for web app
+streamlit>=1.24.0
+
+# PyTorch for model inference
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Transformers library (for ViT, Bert, tokenizer)
+transformers>=4.39.0
+
+# PIL (Python Imaging Library)
+Pillow>=9.5.0
+
+# Numpy for array processing
+numpy>=1.24.0
+
+# Matplotlib for generating attention heatmaps
+matplotlib>=3.7.0
